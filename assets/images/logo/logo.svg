@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="22px" viewBox="0 0 150 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(-1.000000, -2.000000)">
+            <text id="work" font-family="Gilroy-Medium, Gilroy" font-size="30" font-weight="400" letter-spacing="0.400000006" fill="#FFFFFF">
+                <tspan x="84" y="23">work</tspan>
+            </text>
+            <path d="M79.76,22.76 C79.1,23.42 78.305,23.75 77.375,23.75 C76.445,23.75 75.65,23.42 74.99,22.76 C74.33,22.1 74,21.305 74,20.375 C74,19.445 74.315,18.65 74.945,17.99 C75.605,17.33 76.415,17 77.375,17 C78.305,17 79.1,17.33 79.76,17.99 C80.42,18.65 80.75,19.445 80.75,20.375 C80.75,21.305 80.42,22.1 79.76,22.76 Z" id="Shape" fill="#CF000F" fill-rule="nonzero"></path>
+            <text id="bokk" font-family="Gilroy-Medium, Gilroy" font-size="30" font-weight="400" letter-spacing="0.400000006" fill="#FFFFFF">
+                <tspan x="0.109999976" y="23">bokk</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
