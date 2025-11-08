@@ -2,6 +2,9 @@ User-agent: *
 Disallow: /*.pdf$
 Disallow: http://bokk.work/sitemap.xml
 
+User-agent: AhrefsBot
+Disallow: http://bokk.work/sitemap.xml
+
 User-agent: Googlebot-Image
 Disallow: /
 
