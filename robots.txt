@@ -3,5 +3,3 @@ Disallow: /*.pdf$
 
 User-agent: Googlebot-Image
 Disallow: /
-
-Sitemap: https://bokk.work/sitemap.xml
