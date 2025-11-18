@@ -225,7 +225,16 @@
                     <div class="col-xxl-6 col-xl-9">
                         <div class="rs-work-details-section wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1.2s">
                             <h3 class="rs-section-details-title mb-20">Manasota Movers, LLC</h3>
-                            <div class="project-link-wrapper"><p class="description project-link underline"><a href="https://manasotamovers.com" target="_blank" rel="noopener">www.manasotamovers.com</a></p></div>
+                            <div class="project-link-wrapper"><p class="description project-link underline"><a href="#" onclick="navigate(event)">www.manasotamovers.com</a></p></div>
+                            <script>
+                                function navigate(event) {
+                                    event.preventDefault();
+                                    window.open(
+                                      'https://manasotamovers.com/',
+                                      '_blank'
+                                    );
+                                 }
+                            </script>
                                 <div class="rs-work-project-info">
                                     <blockquote>
                                         <p>The Manasota Movers website serves as the company's main digital presence, made to attract new clients and drive service conversions.</p>
